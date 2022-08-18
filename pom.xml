@@ -6,7 +6,8 @@
     <modules>
         <module>security</module>
 		<module>api-gateway</module>
-	</modules>
+        <module>discovery-servers</module>
+    </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
